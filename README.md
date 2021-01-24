@@ -1,6 +1,6 @@
 # My OpenCore 0.6.5 setup.
 
-My computer specs:
+Computer specs:
 - **CPU**: Intel Core i3-9100f
 - **Motherboard**: ASRock B365-M HDV
 - **GPU**: ASUS AMD Radeon RX 580 DUAL OC
